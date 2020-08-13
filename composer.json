@@ -1,6 +1,6 @@
 {
-    "name": "zz-studio/think-addons",
-    "description": "The ThinkPHP6 Addons Package",
+    "name": "hinet/think-addons",
+    "description": "This Addons Package for ThinkPHP6.0",
     "license": "Apache-2.0",
     "authors": [
         {
@@ -12,7 +12,7 @@
         "php": ">=7.1.0",
         "topthink/framework": "^6.0",
         "topthink/think-view": "^1.0",
-        "topthink/think-helper": "^3.0.0"
+        "topthink/think-helper": "^3.1.1"
     },
     "autoload": {
         "psr-4": {
