@@ -2,10 +2,15 @@
     "name": "hinet/think-addons",
     "description": "This Addons Package for ThinkPHP6.0",
     "license": "Apache-2.0",
+    "homePage": "https://github.com/hinet/think-addons",
     "authors": [
         {
             "name": "byron",
             "email": "xiaobo.sun@qq.com"
+        },
+        {
+            "name": "hinet",
+            "email": "hinet@live.cn"
         }
     ],
     "require": {
