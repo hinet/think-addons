@@ -1,8 +1,8 @@
 # think-addons
-The ThinkPHP 6 Addons Package
+This addons package for ThinkPHP 6.0
 
 ## 安装
-> composer require zzstudio/think-addons
+> composer require hinet/think-addons
 
 ## 配置
 
